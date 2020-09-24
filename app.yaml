@@ -13,7 +13,7 @@ handlers:
   script: auto
 
 env_variables:
-  DB_CONNECTION_NAME: fine-doodad-288816:us-central1:brokenlaptops
-  DB_USER: root
-  DB_PASS: e0yA958dlNbthErk
-  DB_NAME: brokenlaptops   
+  DB_CONNECTION_NAME: <connection_name>
+  DB_USER: <db_user_name>
+  DB_PASS: <db_password_>
+  DB_NAME: <db_name>  
